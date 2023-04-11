@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  },
+  "name": "oganesson",
+  "version": "0.0.1",
+  "description": "personal discord bot",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "ogtst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "oganesson"
+  },
+  "author": "dellvoid",
+  "license": "MIT"
+}
